@@ -1,0 +1,42 @@
+.box1{
+    text-align: center;
+    background-color: rgb(189, 189, 189);
+    background-color:#EEEEEE
+}
+
+button{
+    text-align: center;
+    border-radius: 3px;
+}
+
+html {
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.td-left{
+    text-align: center;
+    background-color: #7EE5DA; 
+    width:35%;
+}
+
+.td-medium{
+    text-align: center;
+    background-color:#70CCC2; 
+    width: 15%; 
+    font-size: small;
+}
+
+.td-right{
+    text-align: center;
+    background-color: #62B3AA; 
+    width: 40%; 
+    font-size: small;
+}
+
+table{
+    text-align: center;
+    min-width: 100%;
+    margin: auto;
+}
